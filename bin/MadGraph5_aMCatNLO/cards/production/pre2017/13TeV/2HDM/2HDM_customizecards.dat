@@ -1,0 +1,6 @@
+set param_card mass   35 3.266321e+14 # mh2 
+set param_card mass   36 3.794293e+14 # mh3 
+set param_card mass   37 1.000000e+03 # mhc 
+set param_card DECAY  35 7.088459e+00 # Wh2 
+set param_card DECAY  36 9.525902e+00 # Wh3 
+set param_card DECAY  37 1.727255e+00 # whc 
